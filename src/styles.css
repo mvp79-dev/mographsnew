@@ -839,16 +839,12 @@ margin-left: 5%;
     display: flex;
     align-items: center;
     justify-content: end;
-    background-color: transparent;
-    border-radius: 50px;
-    border: #ff0000 solid 1px;
     justify-content: center;
   }
   
   .center h1 {
     padding: 1rem;
     font-size: 1rem;
-    color: #111111;
     font-family: 'Inter', sans-serif;
   }
 
@@ -959,14 +955,7 @@ margin-left: 5%;
   
   .two-detail-one {
     width: 90%;
-    height: 50px;
-    display: flex;
-    background-color: transparent;
-    border-radius: 50px;
-    border: #ff0000 solid 1px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    height: 7.5vh;
     margin-left: 5%;
   }
 
@@ -1147,10 +1136,6 @@ margin-left: 5%;
   .carousel-examples-end {
     width: 300px;
     height: 50px;
-    display: flex;
-    background-color: transparent;
-    border-radius: 50px;
-    border: #ff0000 solid 1px;
     display: flex;
     align-items: center;
     justify-content: center;
